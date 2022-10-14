@@ -1,0 +1,153 @@
+* {
+    padding: 0;
+}
+
+#k {
+    color: palevioletred;
+}
+.list-1 {
+    display: flex;
+    list-style: none;
+    justify-content:flex-end;
+    color:rgb(250, 16, 16);
+    font-weight: bold;
+}
+#l1-1 {
+    margin-right: 100px;
+}
+#l1-2 {
+    margin-right: 100px;
+}
+#l1-3 {
+    margin-right: 50px;
+}
+#l1-1:hover {
+    background-color: gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#l1-2:hover {
+    background-color: gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#l1-3:hover {
+    background-color: gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.top {
+    text-align: center;
+    margin-top: 150px;
+    color:white;
+    font-size: large;
+
+}
+.top > button {
+    background-color: blueviolet;
+    padding: 5px 13px 5px 13px;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+
+#n {
+    color: rgb(221, 19, 19);
+}
+.main-body {
+    height: 1550px;
+    max-width: 100%;
+    background-color: pink;
+    text-align: center;
+}
+#h1-intro {
+    padding-top: 50px;
+    text-decoration: overline white;
+}
+#field1 {
+    margin: auto;
+    width: 800px;
+    height: 300px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border: solid white 2px;
+}
+.set-1 {
+    display: flex;
+    color: aliceblue;
+}
+#set-img1 {
+    width: 230px;
+    margin-top: 10px;
+}
+#h-set1{
+    padding-top: 50px;
+    text-decoration:overline green solid 5px;
+}
+#p-set1 {
+    margin-right: 30px;
+}
+#field2 {
+    margin: auto;
+    width: 800px;
+    height: 300px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border: solid white 2px;
+}
+.set-2 {
+    display: flex;
+    color: aliceblue;
+    margin-top: 60px;
+}
+#set-img2 {
+    width: 240px;
+}
+#h-set2 {
+    text-decoration: overline green solid 5px;
+}
+#field3 {
+    margin: auto;
+    width: 800px;
+    height: 300px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border: solid white 2px;
+}
+#field4 {
+    margin: auto;
+    width: 800px;
+    height: 300px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border: solid white 2px;
+}
+#set-img4 {
+    width: 240px;
+    height: 200px;
+}
+footer {
+    padding-top: 0px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.mwisho {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#sp-last {
+    font-weight: bold;
+    font-size: xx-large;
+    color: red;
+}
+#fb-img {
+    width: 30px;
+}
+#tw-img {
+    width: 30px;
+}
+#app-img {
+    width: 30px;
+}
