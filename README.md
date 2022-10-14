@@ -1,2 +1,2 @@
 # group-project3
-This is a challenge I and my friends had challenges our selves with...😂😂
+This is a challenge  my friends and i  had challenged our selves with...😂😂
