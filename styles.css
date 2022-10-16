@@ -1,5 +1,14 @@
-* {
+body {
     padding: 0;
+    background-image: url(./images/hilda1.jpeg);
+    background-attachment: fixed;
+    background-position: top center;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 90px;
+    background-color: palevioletred;
+    width: 100%;
+    background-size: cover;
 }
 
 #k {
@@ -54,9 +63,9 @@
     color: rgb(221, 19, 19);
 }
 .main-body {
-    height: 1550px;
+    padding-bottom: 50px;
     max-width: 100%;
-    background-color: pink;
+    background-color: palevioletred;
     text-align: center;
 }
 #h1-intro {
