@@ -1,12 +1,14 @@
-body {
+body{
+    background-color: pink;
+}
+header {
     padding: 0;
     background-image: url(./images/hilda1.jpeg);
     background-attachment: fixed;
     background-position: top center;
     background-repeat: no-repeat;
     position: relative;
-    height: 90px;
-    background-color: palevioletred;
+    height: 90vh;
     width: 100%;
     background-size: cover;
 }
@@ -16,10 +18,15 @@ body {
 }
 .list-1 {
     display: flex;
+    padding-top: 20px;
     list-style: none;
     justify-content:flex-end;
     color:rgb(250, 16, 16);
     font-weight: bold;
+}
+a {
+    text-decoration: none;
+    color:rgb(250, 16, 16);
 }
 #l1-1 {
     margin-right: 100px;

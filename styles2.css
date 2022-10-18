@@ -1,0 +1,154 @@
+body{
+    background-color: pink;
+}
+.header-inside {
+    background-image: url(./images/hilda1.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    position: relative;
+    padding-top: 100px;
+}
+.ul-1 {
+    display: flex;
+    list-style: none;
+    justify-content:flex-end;
+    color:rgb(250, 16, 16);
+    font-weight: bold;
+    font-size: larger;
+    padding-bottom: 100px;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
+#li-1 {
+    margin-right: 100px;
+}
+#li-2 {
+    margin-right: 100px;
+}
+#li-3 {
+    margin-right: 50px;
+}
+#li-1:hover {
+    background-color: gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#li-2:hover {
+    background-color: gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#li-3:hover {
+    background-color: gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.top {
+    text-align: center;
+    margin-top: 200px;
+    color: whitesmoke;
+    font-size: large;
+    padding-bottom: 50px;
+}
+#n {
+    color: rgb(221, 19, 19);
+}
+.top > button {
+    background-color: blueviolet;
+    padding: 5px 13px 5px 13px;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+.body-content {
+    margin-top: 0px;
+    background-color: pink;
+    height: 500px;
+    margin-bottom:10px;
+    padding-top: 30px;
+}
+.field-1 {
+    margin: auto;
+    width: 900px;
+    height: 300px;
+    text-align: center;
+    margin-top: 50px;
+    border: solid white 5px;
+    border-radius: 10px;
+}
+.fld-1 {
+    display: flex;
+}
+#img-fld {
+    padding-top: 20px;
+    width: 200px;
+}
+#hd-fld {
+    padding-top: 30px;
+    color: whitesmoke;
+    text-decoration: overline;
+    font-size: xx-large;
+    font-weight: bold;
+}
+#p-fld {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.last-sect {
+    padding-bottom: 30px;
+    margin-top: 10px;
+}
+#lst-hd {
+    color: white;
+    font-weight: bold;
+    font-size: xx-large;
+    text-decoration: overline white 5px;
+    text-align: center;
+}
+.images {
+    display: flex;
+    padding-left: 70px;
+}
+.images2 {
+    display: flex;
+    margin-left: 70px;
+}
+#size {
+    padding-left: 10px;
+   padding-bottom: 10px;
+    margin-left: 8px;
+    width: 400px;
+}
+#size2 {
+    padding-left: 13px;
+    width: 400px;
+}
+footer {
+    padding-top: 0px;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.mwisho {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#sp-last {
+    font-weight: bold;
+    font-size: xx-large;
+    color: red;
+}
+#fb-img {
+    width: 30px;
+}
+#tw-img {
+    width: 30px;
+}
+#app-img {
+    width: 30px;
+}
